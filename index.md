@@ -1,74 +1,97 @@
-# ePortfolio SNHU CS-499 CAPSTONE
-# Saad Ohiduzzaman
-## Computer Science ePortfolio
+<div style='font-family: Arial, sans serif; color: #2C3E50; line-height: 1.8; max-width: 1000px; margin: auto; padding: 20px;'>
 
-> *"Turning complex ideas into secure, fast, and easy to use software."*
+    <h1 style='color: #1A5276; font-size: 3em; margin-bottom: 5px; border-bottom: 4px solid #D35400; padding-bottom: 10px;'>Saad Ohiduzzaman</h1>
+    <h2 style='color: #2980B9; font-size: 1.8em; margin-top: 0;'>Computer Science Professional ePortfolio</h2>
 
----
+    <p style='font-size: 1.2em; color: #7F8C8D; font-style: italic;'>Turning complex ideas into secure, fast, and easy to use software.</p>
 
-### A Journey from Student to Software Engineer
+    <br>
 
-This ePortfolio showcases a complete journey through the Computer Science program, turning years of study into real world software skills. The educational path started with core math and science classes at BMCC and completing a Bachelor's degree at Southern New Hampshire University. 
+    <h2 style='color: #1A5276; border-bottom: 2px solid #BDC3C7; padding-bottom: 5px;'>A Journey from Student to Software Engineer</h2>
+    <p>This professional portfolio showcases a complete educational journey through the Computer Science program, turning years of academic study into real world software engineering skills. The path started with core math and science classes at BMCC and finished with a Bachelor of Science degree at Southern New Hampshire University.</p>
+    <p>Working extensively with tools and languages like Java, Python, C++, SQL, and the MEAN stack has built a strong technical foundation. The projects below prove a readiness to step into the technology industry as a professional developer who can build new systems, fix broken code, and protect modern applications from security threats.</p>
 
-Working with tools and languages like **Java, Python, C++, SQL, and the MEAN stack** has built a strong foundation. The projects below prove a readiness to step into the technology industry as a professional software engineer who can build, fix, and protect modern applications.
+    <br>
 
----
+    <h2 style='color: #1A5276; border-bottom: 2px solid #BDC3C7; padding-bottom: 5px;'>Core Professional Skills</h2>
 
-### Core Professional Skills
+    <h3 style='color: #2E4053;'>Teamwork and Communication</h3>
+    <p>In the tech industry, writing code is only half the job. The other half is explaining it clearly to the team. This program focused heavily on teamwork tools, like using GitHub to manage and share project files safely. Writing detailed reports and recording code reviews shows the ability to look at an existing program, find out what needs fixing, and explain the plan simply to both managers and other developers.</p>
 
-#### 1. Teamwork and Communication
-In the tech industry, writing code is only half the job. The other half is explaining it clearly to the team. This program focused heavily on teamwork tools, like using GitHub to manage and share project files safely. Writing detailed reports and recording code reviews shows the ability to look at an existing program, find out what needs fixing, and explain the plan simply to both managers and other developers.
+    <h3 style='color: #2E4053;'>Software Engineering and Design</h3>
+    <p>A major skill learned in this program is how to take a simple classroom project and turn it into a tool a real business could use. Good software needs to be highly reliable. This means adding safety nets so an app does not just crash and close if a user accidentally types a letter instead of a number. It also means cleaning up the background code so it does not drain a mobile device battery.</p>
 
-#### 2. Software Engineering and Design
-A major skill learned in this program is how to take a simple, classroom-level project and turn it into a tool a real business could use. Good software needs to be reliable. This means adding safety nets—like "Try-Catch" blocks—so an app doesn't just crash and close if a user accidentally types a letter instead of a number. It also means cleaning up the code so it does not drain a phone's battery.
+    <h3 style='color: #2E4053;'>Algorithms and Data Structures</h3>
+    <p>When an application grows to handle thousands of records, it needs to stay incredibly fast. Making software run quickly depends heavily on how the data is organized in the background. Upgrading basic lists to smarter data tools means the software can find specific information instantly. Writing custom logic also helps automate business rules, which reduces human mistakes and saves time.</p>
 
-#### 3. Algorithms and Data Structures
-When an app grows to handle thousands of records, it needs to stay fast. Making software run quickly depends heavily on how the data is organized in the background. Upgrading basic lists to smarter data tools, like HashMaps, means the software can find specific information instantly. Writing custom logic also helps automate business rules, which reduces human mistakes and saves time.
+    <h3 style='color: #2E4053;'>Database Integration</h3>
+    <p>Modern software connects a visual screen to a background database. This portfolio proves the ability to link interactive web dashboards with NoSQL databases like MongoDB. Building these full systems involves writing smart search commands so users can easily filter, sort, and view massive amounts of data on their screens in real time.</p>
 
-#### 4. Database Integration
-Modern software connects a visual screen to a background database. This portfolio proves the ability to link interactive web dashboards with NoSQL databases like MongoDB. Building these full systems involves writing smart search commands so users can easily filter, sort, and view massive amounts of data on their screens in real-time.
+    <h3 style='color: #2E4053;'>A Security First Mindset</h3>
+    <p>Software must protect user data from day one. A major theme across all these projects is building with strict security in mind. Key upgrades include building mandatory login screens so strangers cannot see the data, creating Admin roles so only approved users can make big changes, and moving passwords out of the main code and into locked files.</p>
 
-#### 5. A Security First Mindset
-Software must protect user data from day one. A major theme across all these projects is building with security in mind. Key upgrades include:
-* Building mandatory login screens so strangers cannot see the data.
-* Creating Admin roles so only approved users can make big changes.
-* Ensuring the system completely forgets a user's session the moment they click log out.
-* Moving hardcoded passwords out of the main code and into locked configuration files.
+    <br>
 
----
+    <div style='background-color: #EAEDED; padding: 20px; border-left: 5px solid #2980B9; border-radius: 5px;'>
+        <h2 style='color: #1A5276; margin-top: 0;'>Technical Walkthrough: Code Review</h2>
+        <p>Before the main projects were improved, a detailed review of the original code was completed. This review looked for security flaws, slow performance, and messy design. The video presentation below explains the plan used to bring these academic applications up to professional industry standards.</p>
+        <p style='font-size: 1.2em; font-weight: bold;'><a href='https://www.youtube.com/watch?v=aHUUKgrAUL4' style='color: #D35400; text-decoration: none;'>Watch the Technical Code Review Video Here</a></p>
+    </div>
 
-### Technical Walkthrough: Code Review
+    <br>
 
-Before the main projects were improved, a detailed review of the original code was completed. This review looked for security flaws, slow performance, and messy design. The video presentation below explains the plan used to bring these academic applications up to professional industry standards.
+    <h2 style='color: #1A5276; border-bottom: 2px solid #BDC3C7; padding-bottom: 5px;'>Portfolio Artifacts: The Transition to Professional Code</h2>
+    <p>Below are the three major projects enhanced for this capstone. Each project targets a specific area of computer science. The descriptions below detail exactly how the original, basic code was transformed into enhanced, professional software.</p>
 
-**[Watch the Technical Code Review Video Here](https://www.youtube.com/watch?v=aHUUKgrAUL4)**
+    <br>
 
----
+    <div style='background-color: #F8F9F9; padding: 20px; border: 1px solid #D5D8DC; border-radius: 8px; margin-bottom: 20px;'>
+        <h3 style='color: #8E44AD; font-size: 1.5em; margin-top: 0;'>Category One: Software Engineering & Design</h3>
+        <h4 style='color: #2C3E50;'>The Android Inventory Mobile Application</h4>
+        
+        <p><strong style='color: #C0392B;'>The Original State:</strong> In the beginning, this app was an unlocked warehouse. There was no login screen, meaning anyone who opened the app could see and ruin sensitive data. It was also very fragile. If a user accidentally typed a word instead of a number in the quantity box, the entire app would crash. Furthermore, there was no delete button on the screen, making it impossible for users to fix their own mistakes. Lastly, the app left database connections open, which silently drained the phone battery.</p>
+        
+        <p><strong style='color: #27AE60;'>The Enhanced Professional State:</strong> The application was completely rebuilt with a Zero Trust security model. A mandatory login gatekeeper was added, saving secure credentials in a digital vault on the phone. To protect privacy, a Secure Logout feature was built that actively shreds the phone memory, ensuring the back button cannot bypass security. To stop crashes, a digital safety net was programmed to catch typing mistakes and simply ask the user to try again instead of closing the app. A smart trash can icon was added to every item, allowing workers to delete mistakes instantly. Finally, all database connections were strictly closed after use to save battery life and memory.</p>
 
-### Portfolio Artifacts
+        <p><strong>Project Links:</strong></p>
+        <ul>
+            <li><a href='./Software%20Design%20and%20Engineering/' style='color: #2980B9; font-weight: bold;'>View the Source Code</a></li>
+            <li><a href='./Narratives/CS499%20Category%20One%20Enchancement%20One%20Narrative.docx' style='color: #2980B9; font-weight: bold;'>Read the Detailed Technical Narrative</a></li>
+        </ul>
+    </div>
 
-Below are the three major projects enhanced for this capstone. Each project targets a specific area of computer science and has been upgraded to run faster, safer, and smoother.
+    <div style='background-color: #F8F9F9; padding: 20px; border: 1px solid #D5D8DC; border-radius: 8px; margin-bottom: 20px;'>
+        <h3 style='color: #27AE60; font-size: 1.5em; margin-top: 0;'>Category Two: Algorithms & Data Structures</h3>
+        <h4 style='color: #2C3E50;'>The Grazioso Salvare Rescue Animal System</h4>
+        
+        <p><strong style='color: #C0392B;'>The Original State:</strong> This Java application was originally built using basic data lists. Whenever the program needed to find a specific rescue animal, it had to slowly read through every single animal on the list one by one until it found the right match. This is incredibly inefficient for a growing database. Additionally, anyone could access the system and change an animal training status, which could lead to untrained animals being sent on dangerous rescue missions.</p>
+        
+        <p><strong style='color: #27AE60;'>The Enhanced Professional State:</strong> The entire background memory structure was upgraded. The slow lists were replaced with HashMaps, which act like a direct phone book. Now, the computer can look up an animal name and find its data instantly, no matter how large the database gets. Security was also tightened by adding Admin accounts protected by passwords. Finally, a smart algorithm was written to automatically check two things at once: whether an animal is fully trained and whether it is already reserved. This completely removes the risk of human error when deploying rescue teams.</p>
 
-#### Category One: Software Engineering & Design
-**The Inventory Mobile Application**
-An Android mobile app originally built as a basic prototype, now heavily upgraded to support full warehouse inventory management. 
-* **The Enhancements:** The app was rebuilt to be highly secure. A required login screen was added, and the app now actively shreds memory when a user logs out so no one else can hit the "back" button to see the data. The screen was also upgraded with a smart delete button that updates the list instantly. Finally, safety checks were added to stop the app from crashing if a worker makes a typo.
-* **Project Links:** [ View the Source Code](./Software%20Design%20and%20Engineering/)
-  * [Read the Detailed Technical Narrative](./Narratives/CS499%20Category%20One%20Enchancement%20One%20Narrative.docx)
+        <p><strong>Project Links:</strong></p>
+        <ul>
+            <li><a href='./Algorithms%20%26%20Data%20Structures/' style='color: #2980B9; font-weight: bold;'>View the Source Code</a></li>
+            <li><a href='./Narratives/CS%20499%20Category%20Two%20Enhancement%20Two%20Narrative.docx' style='color: #2980B9; font-weight: bold;'>Read the Detailed Technical Narrative</a></li>
+        </ul>
+    </div>
 
-#### Category Two: Algorithms & Data Structures
-**The Grazioso Salvare Rescue Animal System**
-A Java-based application designed to help an international rescue organization track and deploy their search and rescue animals.
-* **The Enhancements:** To make the program lightning-fast, the way it stores data was completely changed. Inefficient lists were replaced with HashMaps, allowing the computer to find any animal's record instantly. Security was also tightened by adding a password check for Admin tasks. Lastly, custom logic was added to automatically double-check if an animal is actually trained and ready for a mission, preventing human error.
-* **Project Links:** [ View the Source Code](./Algorithms%20%26%20Data%20Structures/)
-  * [Read the Detailed Technical Narrative](./Narratives/CS%20499%20Category%20Two%20Enhancement%20Two%20Narrative.docx)
+    <div style='background-color: #F8F9F9; padding: 20px; border: 1px solid #D5D8DC; border-radius: 8px; margin-bottom: 20px;'>
+        <h3 style='color: #D35400; font-size: 1.5em; margin-top: 0;'>Category Three: Databases</h3>
+        <h4 style='color: #2C3E50;'>The Search and Rescue Interactive Dashboard</h4>
+        
+        <p><strong style='color: #C0392B;'>The Original State:</strong> This Python and MongoDB project originally lived entirely inside a guided school virtual lab, meaning it was not ready for the real world. Worse, the secret passwords used to access the database were typed directly into the main code. If anyone looked at the code, they could steal the database passwords. Finally, if a user searched for an animal type that did not exist, the empty result would confuse the system and crash the entire visual dashboard.</p>
+        
+        <p><strong style='color: #27AE60;'>The Enhanced Professional State:</strong> The system was completely extracted from the school lab and successfully rebuilt to run on an independent local server, proving real world deployment skills. The massive security flaw was fixed by removing all database passwords from the main code and hiding them in a highly secure, separate file. Strict data validation rules were also written to ensure that no corrupted data could ever be saved. Finally, logic was added to gracefully handle empty search results, allowing the dashboard to display an empty map instead of crashing the program.</p>
 
-#### Category Three: Databases
-**The Search and Rescue Interactive Dashboard**
-A full-stack, interactive dashboard built with Python and MongoDB that allows rescue teams to filter and view complex animal data on a map.
-* **The Enhancements:** The system was successfully moved out of a cloud classroom and rebuilt to run on a local, independent server. Security flaws were fixed by taking the database passwords out of the main code and hiding them in a secure file. Strict safety rules were also added to the backend to ensure that missing or corrupt data can never be saved into the database.
-* **Project Links:** [ View the Source Code](./Databases/)
-  * [Read the Detailed Technical Narrative](./Narratives/CS%20499%20Category%20Three%20Enhancement%20Three%20Narrative.docx)
+        <p><strong>Project Links:</strong></p>
+        <ul>
+            <li><a href='./Databases/' style='color: #2980B9; font-weight: bold;'>View the Source Code</a></li>
+            <li><a href='./Narratives/CS%20499%20Category%20Three%20Enhancement%20Three%20Narrative.docx' style='color: #2980B9; font-weight: bold;'>Read the Detailed Technical Narrative</a></li>
+        </ul>
+    </div>
 
----
-* 2026 Saad Ohiduzzaman. Southern New Hampshire University CS-499.*
+    <div style='text-align: center; margin-top: 40px; color: #99A3A4; font-size: 0.9em;'>
+        <p>Copyright 2026 Saad Ohiduzzaman. Built for Southern New Hampshire University CS499.</p>
+    </div>
+
+</div>
