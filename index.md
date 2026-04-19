@@ -2,7 +2,7 @@
 # Saad Ohiduzzaman
 ## Computer Science ePortfolio
 
-> *"Turning complex ideas into secure, fast, and easy-to-use software."*
+> *"Turning complex ideas into secure, fast, and easy to use software."*
 
 ---
 
@@ -53,21 +53,21 @@ Below are the three major projects enhanced for this capstone. Each project targ
 **The Inventory Mobile Application**
 An Android mobile app originally built as a basic prototype, now heavily upgraded to support full warehouse inventory management. 
 * **The Enhancements:** The app was rebuilt to be highly secure. A required login screen was added, and the app now actively shreds memory when a user logs out so no one else can hit the "back" button to see the data. The screen was also upgraded with a smart delete button that updates the list instantly. Finally, safety checks were added to stop the app from crashing if a worker makes a typo.
-* **Project Links:** * [ View the Source Code](./Software%20Design%20and%20Engineering/)
+* **Project Links:** [ View the Source Code](./Software%20Design%20and%20Engineering/)
   * [Read the Detailed Technical Narrative](./Narratives/CS499%20Category%20One%20Enchancement%20One%20Narrative.docx)
 
 #### Category Two: Algorithms & Data Structures
 **The Grazioso Salvare Rescue Animal System**
 A Java-based application designed to help an international rescue organization track and deploy their search-and-rescue animals.
 * **The Enhancements:** To make the program lightning-fast, the way it stores data was completely changed. Inefficient lists were replaced with HashMaps, allowing the computer to find any animal's record instantly. Security was also tightened by adding a password check for Admin tasks. Lastly, custom logic was added to automatically double-check if an animal is actually trained and ready for a mission, preventing human error.
-* **Project Links:** * [ View the Source Code](./Algorithms%20%26%20Data%20Structures/)
+* **Project Links:** [ View the Source Code](./Algorithms%20%26%20Data%20Structures/)
   * [Read the Detailed Technical Narrative](./Narratives/CS%20499%20Category%20Two%20Enhancement%20Two%20Narrative.docx)
 
 #### Category Three: Databases
 **The Search and Rescue Interactive Dashboard**
 A full-stack, interactive dashboard built with Python and MongoDB that allows rescue teams to filter and view complex animal data on a map.
 * **The Enhancements:** The system was successfully moved out of a cloud classroom and rebuilt to run on a local, independent server. Security flaws were fixed by taking the database passwords out of the main code and hiding them in a secure file. Strict safety rules were also added to the backend to ensure that missing or corrupt data can never be saved into the database.
-* **Project Links:** * [ View the Source Code](./Databases/)
+* **Project Links:** [ View the Source Code](./Databases/)
   * [Read the Detailed Technical Narrative](./Narratives/CS%20499%20Category%20Three%20Enhancement%20Three%20Narrative.docx)
 
 ---
