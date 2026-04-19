@@ -1,4 +1,4 @@
-# Saad Ohiduzzaman ePortfolio SNHU CS-499 CAPSTONE
+# ePortfolio SNHU CS-499 CAPSTONE
 # Saad Ohiduzzaman
 ## Computer Science ePortfolio
 
