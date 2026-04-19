@@ -8,7 +8,7 @@
 
 ### A Journey from Student to Software Engineer
 
-This ePortfolio showcases a complete journey through the Computer Science program, turning years of study into real-world software skills. The educational path started with core math and science classes at BMCC and finished with a Bachelor's degree at Southern New Hampshire University. 
+This ePortfolio showcases a complete journey through the Computer Science program, turning years of study into real world software skills. The educational path started with core math and science classes at BMCC and completing a Bachelor's degree at Southern New Hampshire University. 
 
 Working with tools and languages like **Java, Python, C++, SQL, and the MEAN stack** has built a strong foundation. The projects below prove a readiness to step into the technology industry as a professional software engineer who can build, fix, and protect modern applications.
 
