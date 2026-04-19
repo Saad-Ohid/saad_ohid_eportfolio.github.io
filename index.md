@@ -28,10 +28,10 @@ When an app grows to handle thousands of records, it needs to stay fast. Making 
 #### 4. Database Integration
 Modern software connects a visual screen to a background database. This portfolio proves the ability to link interactive web dashboards with NoSQL databases like MongoDB. Building these full systems involves writing smart search commands so users can easily filter, sort, and view massive amounts of data on their screens in real-time.
 
-#### 5. A Security-First Mindset
+#### 5. A Security First Mindset
 Software must protect user data from day one. A major theme across all these projects is building with security in mind. Key upgrades include:
 * Building mandatory login screens so strangers cannot see the data.
-* Creating "Admin" roles so only approved users can make big changes.
+* Creating Admin roles so only approved users can make big changes.
 * Ensuring the system completely forgets a user's session the moment they click log out.
 * Moving hardcoded passwords out of the main code and into locked configuration files.
 
@@ -58,7 +58,7 @@ An Android mobile app originally built as a basic prototype, now heavily upgrade
 
 #### Category Two: Algorithms & Data Structures
 **The Grazioso Salvare Rescue Animal System**
-A Java-based application designed to help an international rescue organization track and deploy their search-and-rescue animals.
+A Java-based application designed to help an international rescue organization track and deploy their search and rescue animals.
 * **The Enhancements:** To make the program lightning-fast, the way it stores data was completely changed. Inefficient lists were replaced with HashMaps, allowing the computer to find any animal's record instantly. Security was also tightened by adding a password check for Admin tasks. Lastly, custom logic was added to automatically double-check if an animal is actually trained and ready for a mission, preventing human error.
 * **Project Links:** [ View the Source Code](./Algorithms%20%26%20Data%20Structures/)
   * [Read the Detailed Technical Narrative](./Narratives/CS%20499%20Category%20Two%20Enhancement%20Two%20Narrative.docx)
@@ -71,4 +71,4 @@ A full-stack, interactive dashboard built with Python and MongoDB that allows re
   * [Read the Detailed Technical Narrative](./Narratives/CS%20499%20Category%20Three%20Enhancement%20Three%20Narrative.docx)
 
 ---
-*© 2026 Saad Ohiduzzaman. Southern New Hampshire University CS-499.*
+* 2026 Saad Ohiduzzaman. Southern New Hampshire University CS-499.*
