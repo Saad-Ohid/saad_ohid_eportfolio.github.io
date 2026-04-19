@@ -1,8 +1,8 @@
 <div style='font-family: Arial, sans serif; color: #333333;'>
 
-<h1 style='color: #2980B9;'>Computer Science Capstone ePortfolio</h1>
+<h1 style='color: #2980B9;'>Computer Science Capstone ePortfolio by Saad Ohiduzzaman</h1>
 
-<p>Welcome to the professional code repository for Saad Ohiduzzaman. This repository contains the source code, technical narratives, and enhancements completed for the Southern New Hampshire University Computer Science Capstone project.</p>
+<p>Welcome to my professional code repository. This repository contains the source code, technical narratives, and enhancements completed for the Southern New Hampshire University Computer Science Capstone project.</p>
 
 <h2 style='color: #1A5276;'>Repository Contents</h2>
 <p>This repository is divided into three main software projects, demonstrating growth across different areas of computer science.</p>
